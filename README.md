@@ -1,11 +1,11 @@
 # NT_AZURE_VM
 ![1572653575_azure_vm_story](https://github.com/user-attachments/assets/321e4b92-8920-43b3-94f0-470380f75d7b)
 
-##Network Security Groups (NSG) and Traffic Inspecting between Azure VMs
+## Network Security Groups (NSG) and Traffic Inspecting between Azure VMs
 Objective: 1. to observe different types of network traffic to and from Azure VMs with Wireshark. 2. Dabble with Network Security Groups on the Azure platform. 
 
-##Technology Used
-- Microsoft Azure Virtual Machines\
+## Technology Used
+- Microsoft Azure Virtual Machines
 - Remote Desktop
 - Command-line tools
 - Network Protocols: SSH, ICMP, DNS HTTP/s
