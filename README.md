@@ -62,7 +62,7 @@ Monitor Remote Desktop Protocol communication by filtering Wireshark for RDP tra
 ![RDP_PT](https://github.com/user-attachments/assets/de20270e-9985-44e8-9d27-b32456efccee)
 
 ## Summary
-This project provides hands-on experience with Azure virtual machine deployment, network security configuration, and comprehensive network protocol analysis. By establishing a multi-OS environment with Windows 10 and Ubuntu Linux VMs, participants gain practical knowledge of cloud infrastructure management and cross-platform networking. The systematic observation of various network protocols (ICMP, SSH, DHCP, DNS, and RDP) using Wireshark demonstrates real-world network traffic patterns, security implications of different protocols, and the importance of network monitoring in IT environments. 
+This lab provides hands-on experience with Azure virtual machine deployment, network security configuration, and comprehensive network protocol analysis. By establishing a multi-OS environment with Windows 10 and Ubuntu Linux VMs, participants gain practical knowledge of cloud infrastructure management and cross-platform networking. The systematic observation of various network protocols (ICMP, SSH, DHCP, DNS, and RDP) using Wireshark demonstrates real-world network traffic patterns, security implications of different protocols, and the importance of network monitoring in IT environments. 
 
 
 
